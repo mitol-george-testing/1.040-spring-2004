@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    [
+      "Business",
+      "Project Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3bb42520-e419-5cb9-f49f-a46de791349b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Project Management",
+  "course_description": "1.040 covers three important aspects of construction project management:\n\n*   the theory, methods and quantitative tools used to effectively plan, organize, and control construction projects;\n*   efficient management methods revealed through practice and research; and\n*   hands-on, practical project management knowledge from on-site situations and field trips.\n\nThe course relies on a basic project management framework in which the project life-cycle is broken into organizing, planning, monitoring, controlling and learning from old and current construction projects. Within the framework, students learn the methodologies and tools necessary for each aspect of the process as well as the theories upon which these are built. By the end of the term they are able to adapt and apply the framework to effectively manage a construction project in an Architecture/Engineering/Construction (A/E/C) organization.\n",
+  "department_numbers": [
+    "1",
+    "ESD"
+  ],
+  "extra_course_numbers": "1.401J,ESD.018J",
+  "primary_course_number": "1.040",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
